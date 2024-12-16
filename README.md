@@ -1,1 +1,1 @@
-Refer to the SQL, Excel, GoogleSheet Fundamentals powerpoint presentation.
+Refer to the SQL, Excel, GoogleSheet Fundamentals [Powerpoint presentation](https://github.com/JessicaGutstein/SQL-and-Excel-Fundamentals/blob/main/SQL%2C%20Excel%2C%20GoogleSheet%20Fundamentals.pdf).
